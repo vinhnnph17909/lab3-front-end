@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "IPHONE 12123123",
+      "desc": "APPLE SAMSUNG",
+      "price": 20000007,
+      "id": 1
+    },
+    {
+      "name": "Lập trình web",
+      "desc": "san pham dep qua",
+      "price": 130,
+      "id": 2
+    },
+    {
+      "name": "Nguyễn Văn  Hùng",
+      "desc": "san pham dep qua",
+      "price": 130,
+      "id": 3
+    },
+    {
+      "name": "Lập trình web",
+      "desc": "san pham dep qua",
+      "price": 130,
+      "id": 4
+    },
+    {
+      "name": "Lập trình web",
+      "desc": "APPLE SAMSUNG",
+      "price": 2000000,
+      "id": 5
+    },
+    {
+      "name": "hungbc131",
+      "desc": "san pham dep qua",
+      "price": 2000000,
+      "id": 6
+    },
+    {
+      "name": "Áo Thun Nam BAD VIBES",
+      "desc": "APPLE SAMSUNG",
+      "price": 2000000,
+      "id": 7
+    },
+    {
+      "name": "Lập trình web",
+      "desc": "san pham dep qua",
+      "price": 2000000,
+      "id": 8
+    }
+  ]
+}
